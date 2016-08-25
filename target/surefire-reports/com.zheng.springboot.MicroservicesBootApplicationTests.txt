@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.zheng.springboot.MicroservicesBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.643 sec - in com.zheng.springboot.MicroservicesBootApplicationTests
